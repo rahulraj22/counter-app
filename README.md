@@ -6,7 +6,7 @@ Now, head over to your Terminal[being in project directory]
 ```bash
 npm create vite@latest
 ```
-#### Then create install all necessary dependencies/packages to run the app
+#### Then install all necessary dependencies/packages(listed in package.json file) to run the app
 ```bash
 npm i
 ```
