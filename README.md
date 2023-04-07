@@ -25,7 +25,7 @@ npm run dev
 
 #### Some important question & answers
 Q. Named and Default export ? <br>
-Ans: export function without using "default export <functionName>".
+Ans: export function without using "export default <functionName>".
 So, in that case a same exact name(i.e import {funcName} from "./App"; ) of function should be used in
 order to import it.
 However, in default export function could be exported via any name 
@@ -54,4 +54,4 @@ Here, ```count``` is the variable whose initial value is set to 0 and ```setCoun
 Here, I tried to change the className(class is predefined in Js) using Js.
 
 #### Counter App : https://fv8zzq.csb.app/
-##### ~ Any suggestions/improvements are welcome...:)
+##### ~ Any suggestions/improvements are welcome...
