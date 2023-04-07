@@ -1,0 +1,89 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: wheat;
+}
+
+h1 {
+  font-size: 4rem;
+  color: #e384ff;
+  text-shadow: 4px 0px palevioletred;
+}
+p {
+  margin: 0;
+  padding: 0;
+  font-style: italic;
+}
+.red {
+  color: red;
+}
+.green {
+  color: green;
+}
+
+input {
+  display: block;
+  margin: 18px auto;
+}
+button {
+  margin: auto 8px;
+  border: none;
+  padding: 10px 28px;
+  font-size: 15px;
+  cursor: pointer;
+  transition: all 0.25s;
+}
+button:hover {
+  border-radius: 22px;
+}
+
+.inc {
+  background-color: #7aa874;
+  transition: background-color 0.15s;
+}
+.inc:hover {
+  background-color: #5d9c59;
+}
+.inc:active {
+  background-color: #7aa874;
+}
+
+.dec {
+  background-color: #ea5455;
+  transition: background-color 0.15s;
+}
+.dec:hover {
+  background-color: #fc2947;
+}
+.dec:active {
+  background-color: #ea5455;
+}
+
+.reset {
+  background-color: #408e91;
+  transition: background-color 0.15s;
+}
+.reset:hover {
+  background-color: #0e8388;
+}
+.reset:active {
+  background-color: turquoise;
+}
+.updateBy {
+  background-color: mediumturquoise;
+  transition: background-color 0.25s;
+}
+.updateBy:active {
+  background-color: red;
+}
+
+input {
+  width: 148px;
+  outline: none;
+  font-size: 16px;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-left: 18px;
+  border: 1px solid black;
+  border-radius: 20px;
+}
