@@ -1,5 +1,5 @@
 ## Counter App | ReactJs
-- Counter App is simple counting app either increment/decrement by 1 or update by certain number.
+- Counter App is simple counting app to either increment/decrement by 1 or update by certain number.
 - App is built using ReactJs [built tool used: Vite] <br>
 Now, head over to your Terminal[being in project directory]
 #### Commands to create React starter template using Vite
