@@ -10,7 +10,7 @@ npm create vite@latest
 ```bash
 npm i
 ```
-#### Run the starter react template
+#### Run the starter react template [created via Vite]
 ```bash
 npm run dev
 ```
