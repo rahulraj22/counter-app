@@ -6,6 +6,10 @@ Now, head over to your Terminal[being in project directory]
 ```bash
 npm create vite@latest
 ```
+#### Now, cd into newly created project created using vite
+```bash
+cd <newly-created-project-directory>
+```
 #### Then install all necessary dependencies/packages(listed in package.json file) to run the app
 ```bash
 npm i
